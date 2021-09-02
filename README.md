@@ -33,7 +33,7 @@ print(projects)
 ## Contact with me!
 
 socialmedia = {
-  "twitter": "@Visualllibrary",
+  "twitter": "@Visuallibs",
   "discord": "ibrahiim#5454",
   "discord_server": "discord.gg/visualizer",
   "github": "You're in my github already lol"
