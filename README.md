@@ -1,16 +1,42 @@
-### Hi there 👋
+```python
+import informations
+import projects
+import socialmedia
 
-<!--
-**Visuallib/Visuallib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Information about me!
 
-Here are some ideas to get you started:
+informations = {
+  "name": "ibrahim aka fqeo aka Visuallib",
+  "age": "18",
+  "pronouns": "He/Him",
+  "country": "Egypt",
+  "languages": "Python & TypeScript":
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+print(informations)
+
+## Cool projects!
+
+projects = {
+  - @Neighborbot ( discord bot )
+  - NSFW Projects ( Don't ask why and how... )
+  - Hypixel website stats 
+  - Overlay stats ( Working on it.. )
+  - IP Grabber ( Used only for legal reasons. )
+  - Bedwars , Skywars , Duels , Blitz Tracker
+  - Youtube Subscribers , Views counter discord bot
+  - And more...!
+}
+
+print(projects)
+
+## Contact with me!
+
+socialmedia = {
+  "twitter": "@Visualllibrary",
+  "discord": "ibrahiim#5454",
+  "discord_server": "discord.gg/visualizer",
+  "github": "You're in my github already lol"
+}
+
+print(socialmedia)
