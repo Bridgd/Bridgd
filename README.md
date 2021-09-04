@@ -6,7 +6,7 @@ import socialmedia
 ## Information about me!
 
 informations = {
-  "name": "ibrahim aka fqeo aka Visuallib",
+  "name": "ibrahim aka ibrq",
   "age": "18",
   "pronouns": "He/Him",
   "country": "Egypt",
@@ -33,7 +33,7 @@ print(projects)
 ## Contact with me!
 
 socialmedia = {
-  "twitter": "@Visuallibs",
+  "twitter": "@ibrqhiiim",
   "discord": "ibrahiim#5454",
   "discord_server": "discord.gg/visualizer",
   "github": "You're in my github already lol"
